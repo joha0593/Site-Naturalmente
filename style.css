@@ -118,7 +118,7 @@ header  .cabecalho{
     background: linear-gradient(to right, transparent 0%, black 300%);
 }
 .arrow-left:hover, .arrow-right:hover{
-    opacity: 2;
+    background-color: darkgreen;
 }
 
 .produtos{
